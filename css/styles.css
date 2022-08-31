@@ -1,0 +1,61 @@
+/* use % for layouts. 
+validate html and css. 
+optimize imgs & code at end & remove css commemts
+google fonts is fast
+C R A P
+:focus
+img alt
+meta author & description
+lazy loading for later imgs
+iphone 5 / 320 px minimum - infinity
+sr-only
+lighthouse audit
+Test sites with other people (designer blinders)
+you can fluidly chg site width in dev tools
+think of every part of the site as a fluid component, not tablet pc etc. 
+
+@media only screen and (min-width: 600px) {
+
+}
+
+*/
+
+
+
+
+/*body*/
+
+
+/*typography*/
+
+h1, h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, li, a,
+address,
+figcaption {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(61, 61, 61);
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+
+/*header*/
+
+/*main content*/
+
+section,
+header h1,
+header figcaption,
+header address,
+header p {
+    padding: .5rem;
+}
+
+
+
+/*footer*/
